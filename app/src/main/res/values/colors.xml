@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0A0A0B</color>
+    <color name="card_placeholder">#141417</color>
+    <color name="text_primary">#F5F5F7</color>
+    <color name="text_secondary">#8A8A90</color>
+    <color name="text_tertiary">#5E5E66</color>
+    <color name="pill_bg">#1A1A1E</color>
+    <color name="pill_stroke">#26262B</color>
+</resources>
